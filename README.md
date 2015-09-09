@@ -20,7 +20,11 @@ with this content:
 install pre-commit to your project
 
     pre-commit install && pre-commit autoupdate
-    
+
 
 # Changelog
+
+## 09.09.2015
 * Initial import
+* Update setup.py
+* Bump version 0.0.1

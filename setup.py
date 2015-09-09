@@ -4,8 +4,8 @@ from setuptools import setup
 setup(
     name='partial_flake8',
     description='Tool for checking for flake8 in commits',
-    url='https://github.com/asottile/reorder_python_imports',
-    version='0.0.0',
+    url='https://github.com/STUDITEMPS/kiss-pre-commit-hooks',
+    version='0.0.1',
     author='Trung Phan',
     author_email='trung.phan@studitemps.de',
     classifiers=[
