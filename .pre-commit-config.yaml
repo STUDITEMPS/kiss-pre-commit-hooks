@@ -1,0 +1,4 @@
+-   repo: ssh://mercurial@phabricator.intranet.studitemps.de/diffusion/B/kiss-pre-commit-hooks.git
+    sha: 642f4c5466263e8dc99d3e708e8f35dc5e2e14c6
+    hooks:
+    -   id: partial-flake8

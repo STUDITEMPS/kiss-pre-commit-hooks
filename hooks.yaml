@@ -1,0 +1,7 @@
+-   id: partial-flake8
+    name: partial flake8 in changed lines
+    description: partial checking for flake8 in changed lines
+    entry: partial-flake8
+    language: python
+    files: '\.py$'
+    exclude: (settings\.py$)|(\/migrations\/00*.\.py$)|(urls\.py$)

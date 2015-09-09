@@ -1,0 +1,54 @@
+# use glob syntax.
+syntax: glob
+.DS_Store
+*.log
+*.log.?
+*.pid
+*~
+._*
+*.db
+*.py[co]
+*.rej
+*.orig
+*.sw[op]
+*.subl*.tmp
+.svn
+.cache/
+.idea/*
+.idea*
+.coverage
+.vagrant/
+.coverage
+config.codekit
+coverage_html_report/
+urls.txt
+coverage_html_report/
+Vagrantfile
+test-data
+celerybeat-schedule
+ticker.png
+local_settings.py
+jobmensa/VERSION
+jobmensa/generated_settings*
+jobmensa/kiss/generated_settings*
+jobmensa/static/img/ticker.png
+jobmensa/static/node_modules*
+build/
+build-bundle*/
+jobmensa/jobmensa/elaine
+jobmensa/alternatives
+local_settings.py
+csv_exports/
+*.tmp
+screenshots.png
+*sublime*
+deps.tar.bz2
+#csv_export_archive/
+
+# SASS files
+jobmensa/static/.sass-cache
+
+# switch to regexp syntax.
+#syntax: regexp
+#^\.pc/
+/externals/
